@@ -2,11 +2,11 @@ import java.util.Arrays;
 
 public class test004 {
     public static void main(String[] args) {
-        String[] f1 = {"Mani","70320000","hyd"};
-        String[] f2 = {"Srujan","696900012","KPHB"};
-        String[] f3 = {"Sai","70320000","hyd"};
-        String[] f4 = {"Tarak","70320000","KPHB"};
-        String[] f5 = {"Rahul","696900012","hyd"};
+        String[] f1 = {"kai","70320000","hyd"};
+        String[] f2 = {"toahiki","696900012","KPHB"};
+        String[] f3 = {"ibuki","70320000","hyd"};
+        String[] f4 = {"tyson","70320000","KPHB"};
+        String[] f5 = {"max","696900012","hyd"};
 
         
         System.out.println("Friend 1: "+Arrays.toString(f1));
