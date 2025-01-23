@@ -2,6 +2,7 @@ import java.util.*;
 
 class ArrayListCode{
 	void arrayListMethod(){
+		//ArrayList with Integers
  	ArrayList<Integer> araylist1 = new ArrayList<>();	    
 	      araylist1.add(100);
 	      araylist1.add(200);
@@ -9,7 +10,7 @@ class ArrayListCode{
 	      araylist1.add(0);
 	      araylist1.add(900);
 	      araylist1.add(600);
-System.out.println("Elements of the list: ");
+	System.out.println("Elements of the list: ");
 	      
 	      Iterator<Integer> iterate = araylist1.iterator();
 	    
