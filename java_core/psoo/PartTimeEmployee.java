@@ -6,8 +6,8 @@ class Employee1 {
 
     public Employee1() {
         this.id = 1;
-        this.firstName = "Srujan";
-        this.lastName = "sai";
+        this.firstName = "harsha";
+        this.lastName = "sree";
         this.address = "Hyd";
     }
 
