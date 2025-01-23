@@ -9,7 +9,7 @@ public class demo032 {
         h.add("world");
         System.out.println(h);
 
-        try (Scanner sc = new Scanner(System.in)) {
+        Scanner sc = new Scanner(System.in);
             while(true){
                 System.out.println("Enter a word");
                 String word = sc.nextLine();
@@ -21,7 +21,7 @@ public class demo032 {
             System.out.println(h);
         }
 
-    }
+    
     public static void main(String[] args) {
        hash();
 }
