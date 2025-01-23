@@ -1,4 +1,5 @@
 public class demo023 {
+    //Palindrome
     static int isPalindrome(int x){
         if(x<=0){
             return -1;
