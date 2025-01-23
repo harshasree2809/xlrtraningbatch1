@@ -1,6 +1,7 @@
 class Solution2 {
     public int reverse(int x) {
         int reversed = 0;
+        //Reverse Integer
         while(x!=0){
             int digit = x%10;
             if (reversed > Integer.MAX_VALUE / 10 ) {
