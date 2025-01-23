@@ -4,7 +4,7 @@ class HashSetDemo1 {
 
 		HashSet hashSet = new HashSet();
 		hashSet.add(100);
-		hashSet.add("Srujan");
+		hashSet.add("harsha");
 		hashSet.add(9999.99);
 		System.out.println(hashSet);		
 
