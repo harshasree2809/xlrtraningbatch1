@@ -2,7 +2,19 @@
 class Solution {
     public boolean isPalindrome(int x) {
         //palindrome of integers
+// public boolean isPalindrome(int x) {
+//         String st = Integer.toString(x);
+//         for(int i=0;i<st.length();i++ ){
+//             char start = st.charAt(i);
+//             char end = st.charAt(st.length() - 1 - i);
+//             if (start != end) {
+//                 return false;
+//             }
+//         }
 
+//         return true;
+    
+//     }
         
             if(x==0){
                 return true;
