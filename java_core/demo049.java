@@ -12,7 +12,6 @@ public class demo049 {
             reversed = reversed * 10 + number % 10;  
             number /= 10;                         
         }
-        
         System.out.println("Reversed number: " + reversed);
     }
 }
