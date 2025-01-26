@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class demo026{
+class Demo026{
    public static void main(String[] args) {
        //Find vowel and consonant
         Scanner sc = new Scanner(System.in);
