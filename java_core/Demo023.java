@@ -1,4 +1,4 @@
-public class demo023 {
+public class Demo023 {
     //Palindrome
     static int isPalindrome(int x){
         if(x<=0){
