@@ -4,7 +4,7 @@ public class Demo040 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a character: ");
         char ch = scanner.next().charAt(0);
-
+//character lowercase or uppercase or digit or special
         if (Character.isLowerCase(ch)) {
             System.out.println(ch + " is a lowercase letter.");
         } else if (Character.isUpperCase(ch)) {
