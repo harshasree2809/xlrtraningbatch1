@@ -1,4 +1,4 @@
-public class demo015 {
+public class Demo015 {
    void swap(int a,int b){
         System.out.println("Before swapping of two elements:\na="+a+" b="+b);
         int temp=a;
