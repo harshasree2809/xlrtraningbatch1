@@ -22,7 +22,7 @@ class TaxOnIncome {
     }
 }
 
-public class demo022 {
+public class Demo022 {
     public static void main(String[] args) {
         //Tax on Income
         TaxOnIncome t = new TaxOnIncome();
